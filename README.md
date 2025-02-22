@@ -1,6 +1,18 @@
 # Merhaba, Ben Onur KARASÜRMELİ 👋
 
-Ben bir **Unity Geliştiricisi** ve **Oyun Geliştirme** tutkunu olarak, teknolojinin sınırlarını zorlayarak yaratıcı projeler geliştirmeye odaklandım. **Veri Bilimi** ve **Yapay Zeka** alanlarına olan ilgimle bu konularda derinlemesine bilgi sahibi olmaya devam ediyorum. Şu an, yazılım geliştirme becerilerimi ileriye taşıyan ve yenilikçi projeler geliştirmeye odaklanan bir kariyer yolculuğundayım.
+## 🔹 Data Science & AI Enthusiast | Machine Learning | Statistical Analysis | Python & SQL
+
+Veri bilimi ve yapay zeka alanında uzmanlaşmayı hedefleyen bir Jr. Veri Bilimci' yim. İstatistik, veri analizi ve makine öğrenimi konularında sağlam bir altyapıya sahibim ve bu alandaki en güncel teknikleri öğrenmeye ve uygulamaya devam ediyorum.
+
+## 📌 Miuul Data Scientist Bootcamp kapsamında Python, SQL, veri görselleştirme, makine öğrenimi modelleri ve üretim seviyesinde veri bilimi konularında derinlemesine eğitim aldım.
+
+## 📊 Çalıştığım Konular:
+✔ Rule-based Classification & Customer Segmentation
+✔ Recommendation Systems (Hybrid, ARL, Collaborative Filtering)
+✔ A/B Testleri & Hipotez Testleri
+✔ Regresyon Modelleri & Feature Engineering
+✔ Kredi Riski & Müşteri Kaybı Tahminleme
+✔ AWS & Google Cloud ile Üretim Seviyesi Modelleme
 
 ---
 
@@ -33,8 +45,11 @@ Ben bir **Unity Geliştiricisi** ve **Oyun Geliştirme** tutkunu olarak, teknolo
 - **LinkedIn**: [linkedin.com/in/onurkarasurmeli](https://www.linkedin.com/in/onurkarasurmeli)
 - **E-posta**: [onurkarasurmeli.ok@gmail.com](mailto:onurkarasurmeli.ok@gmail.com)
 
+## 🌍 Diller:
+Türkçe (Ana Dil) | İngilizce (B2)
+
 ## 🎯 Hedefler
-Kariyerimde **Yapay Zeka** ve **Veri Bilimi** alanlarında projeler geliştirmek, oyun endüstrisinde yenilikçi çözümler yaratmak ve bu alanlarda güçlü bir etki bırakmak istiyorum.
+🚀 Veri bilimi ve yapay zeka alanında analitik çözümler üretmek, iş süreçlerini veriye dayalı kararlarla optimize etmek ve bu alanda kendimi sürekli geliştirmek için çalışıyorum. Yeni projeler ve iş birlikleri için bağlantıya geçmekten memnuniyet duyarım!
 
 ---
 
