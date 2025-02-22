@@ -18,7 +18,6 @@ Veri bilimi ve yapay zeka alanında uzmanlaşmayı hedefleyen bir Jr. Veri Bilim
 
 ## 🎓 Eğitim
 - **Data Scientist Bootcamp - Miuul** (Devam Ediyor)
-- **Yapay Zeka Uygulamaları Geliştirme- Yapay Zeka ve Teknoloji Akademisi** (Devam Ediyor)
 - **Unity Geliştiricisi - Oyun ve Uygulama Akademisi** (2024)
   - Unity Game Development, Game Art, Google Project Management
   - Proje: **Momo** - Çok oyunculu macera oyunu
@@ -57,5 +56,7 @@ Türkçe (Ana Dil) | İngilizce (B2)
 - [LinkedIn](https://www.linkedin.com/in/onurkarasurmeli)
 - [Portfolio](https://onurkarasurmeli.com.tr)
 - [Linktree](https://linktr.ee/onurkarasurmeli)
+- [Kaggle](https://www.kaggle.com/onurkarasurmeli)
+
 
 Teşekkürler! 😊
