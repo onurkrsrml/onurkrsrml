@@ -1,10 +1,10 @@
 # Merhaba, Ben Onur KARASÜRMELİ 👋
 
-## 🔹 Data Science & AI Enthusiast | Machine Learning | Statistical Analysis | Python & SQL
+🔹 Data Science & AI Enthusiast | Machine Learning | Statistical Analysis | Python & SQL
 
 Veri bilimi ve yapay zeka alanında uzmanlaşmayı hedefleyen bir Jr. Veri Bilimci' yim. İstatistik, veri analizi ve makine öğrenimi konularında sağlam bir altyapıya sahibim ve bu alandaki en güncel teknikleri öğrenmeye ve uygulamaya devam ediyorum.
 
-## 📌 Miuul Data Scientist Bootcamp kapsamında Python, SQL, veri görselleştirme, makine öğrenimi modelleri ve üretim seviyesinde veri bilimi konularında derinlemesine eğitim aldım.
+📌 Miuul Data Scientist Bootcamp kapsamında Python, SQL, veri görselleştirme, makine öğrenimi modelleri ve üretim seviyesinde veri bilimi konularında derinlemesine eğitim aldım.
 
 ## 📊 Çalıştığım Konular:
 ✔ Rule-based Classification & Customer Segmentation
